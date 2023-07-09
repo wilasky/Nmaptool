@@ -1,2 +1,4 @@
 # Nmaptool
-Nmap tool with 9 scan types 
+
+Noob script nmap tool with 9 scan types 
+  
